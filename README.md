@@ -24,28 +24,28 @@ For this project, **Creality Print** (as shown in the provided screenshots) was 
 The following screenshots illustrate the printing settings used for the robotic arm joint in Creality Print. These settings are a good starting point and can be adjusted based on your specific 3D printer and desired print quality.
 
 <p align="center">
-  <img src="Screenshot2025-08-14143548.png" alt="Default Setting" width="500"/>
+  <img src="1.png" alt="Default Setting" width="500"/>
 </p>
 <p align="center"><b>Figure 1: Initial Settings in Creality Print</b></p>
 
 Figure 1 shows the initial view of the model loaded into Creality Print, displaying the default settings for layer height and line width.
 
 <p align="center">
-  <img src="Screenshot2025-08-14143936.png" alt="Layer Height Setting" width="500"/>
+  <img src="2.png" alt="Layer Height Setting" width="500"/>
 </p>
 <p align="center"><b>Figure 2: After clicking the "Auto" button</b></p>
 
 Figure 2 shows the settings after clicking the "Auto" button in Creality Print, which automatically adjusts the part's orientation, layer height (0.16 mm), and infill settings. This automated adjustment aims to optimize the print for support and overall quality. A layer height of 0.16 mm was chosen for a balance between detail and print time. The infill density is typically set around 20% for functional parts to provide sufficient strength without excessive material usage.
 
 <p align="center">
-  <img src="Screenshot2025-08-14144323.png" alt="Preview with Infill" width="500"/>
+  <img src="3.png" alt="Preview with Infill" width="500"/>
 </p>
 <p align="center"><b>Figure 3: Sliced Model Preview</b></p>
 
 Figure 3 presents a preview of the sliced model, showing the internal infill structure and estimated print time and material consumption. This view helps visualize how the part will be constructed layer by layer.
 
 <p align="center">
-  <img src="Screenshot2025-08-14144344.png" alt="Top View Preview" width="500"/>
+  <img src="4.png" alt="Top View Preview" width="500"/>
 </p>
 <p align="center"><b>Figure 4: Top View of Sliced Model</b></p>
 
